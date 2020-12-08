@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Utah';
+    src: url('./fonts/Utah-Bold.woff2') format('woff2'),
+         url('./fonts/Utah-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Utah';
+    src: url('./fonts/Utah.woff2') format('woff2'),
+         url('./fonts/Utah.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Utah Condensed';
+    src: url('./fonts/UtahCondensed-Bold.woff2') format('woff2'),
+         url('./fonts/UtahCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
